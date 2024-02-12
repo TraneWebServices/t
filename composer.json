@@ -1,7 +1,7 @@
 {
     "name": "t/t",
     "type": "project",
-    "description": "The T project",
+    "description": "The T namespace",
     "authors": [
         {
             "name": "Custură Laurențiu",
