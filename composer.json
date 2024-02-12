@@ -1,0 +1,11 @@
+{
+    "name": "t/t",
+    "type": "project",
+    "description": "The T project",
+    "authors": [
+        {
+            "name": "Custură Laurențiu",
+            "email": "mail@custura.de"
+        }
+    ]
+}
